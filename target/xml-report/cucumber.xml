@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="14.373" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Search for flights from Emirates" name="Search return flights" time="14.248">
+<system-out><![CDATA[
+Given User should choose first city.........................................passed
+And User should choose second city..........................................passed
+And User should choose flights dates........................................passed
+And Uer should choose number of passengers..................................passed
+And User Should choose class of flight......................................passed
+When User should click on search button.....................................passed
+Then User should see available flights for correct dates....................passed
+]]></system-out>
+</testcase>
+</testsuite>
